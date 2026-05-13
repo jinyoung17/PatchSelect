@@ -1,6 +1,6 @@
 # PatchSelect
 
-Official PyTorch implementation of PatchSelect for patch-based text-driven image editing.
+Official PyTorch implementation of PatchSelect for patch-based text-driven image editing. Pretrained components such as CLIP, DINO, and Stable Diffusion are treated as frozen external backbones and are therefore not included in this repository.
 
 ## Editing Instances
 
