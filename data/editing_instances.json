@@ -1,0 +1,292 @@
+[
+     {
+        "image_caption": "apples",
+        "init_img": "apples.jpeg",
+        "target_prompts": [
+            "red peach",
+            "blue peach",
+            "glass peach",
+            "ceramic peach",
+            "fluffy peach",
+            "ceramic pumpkin",
+            "silver pumpkin",
+            "red pumpkin",
+            "neon pumpkin",
+            "golden pumpkin",
+            "white baseball",
+            "vintage baseball",
+            "cream baseball",
+            "golden baseball"
+        ]
+    },
+    {
+        "image_caption": "book",
+        "init_img": "book.jpeg",
+        "target_prompts": [
+            "blue toolbox",
+            "white toolbox",
+            "gray toolbox",
+            "ceramic toolbox",
+            "metallic toolbox",
+            "retro camera",
+            "cartoonish camera",
+            "blue camera",
+            "neon camera",
+            "vintage camera",
+            "gray cup",
+            "neon cup",
+            "cream cup",
+            "white cup"
+        ]
+    },
+
+    {
+        "image_caption": "cartoon mouse",
+        "init_img": "mouse_cartoon.jpeg",
+        "target_prompts": [
+            "fluffy hamster",
+            "vintage hamster",
+            "glass hamster",
+            "blue hamster",
+            "brown kitten",
+            "cream kitten",
+            "metallic kitten",
+            "glass kitten",
+            "golden kitten",
+            "silver puppy",
+            "gray puppy",
+            "metallic puppy",
+            "red puppy",
+            "glossy puppy",
+            "patterned puppy"
+
+        ]
+    },
+    {
+        "image_caption": "cat",
+        "init_img": "cat.jpeg",
+        "target_prompts": [
+            "white dog",
+            "patterned dog",
+            "red dog",
+            "glossy dog",
+            "golden dog",
+            "glossy rabbit",
+            "cartoonish rabbit",
+            "glass rabbit",
+            "golden rabbit",
+            "ceramic rabbit",
+            "fluffy ferret",
+            "neon ferret",
+            "red ferret",
+            "patterned ferret",
+            "brown ferret"
+        ]
+    },
+    {
+        "image_caption": "dog",
+        "init_img": "dog.jpeg",
+        "target_prompts": [
+            "white cat",
+            "neon cat",
+            "wooden cat",
+            "cartoonish cat",
+            "fluffy cat",
+            "glossy fox",
+            "vintage fox",
+            "gray fox",
+            "white fox",
+            "red fox",
+            "golden deer",
+            "ceramic deer",
+            "wooden deer",
+            "white deer"
+        ]
+    },
+    {
+        "image_caption": "door",
+        "init_img": "door.jpeg",
+        "target_prompts": [
+            "ceramic vending machine",
+            "red vending machine",
+            "patterned vending machine",
+            "glass vending machine",
+            "vintage vending machine",
+            "fluffy chair",
+            "brown chair",
+            "glossy chair",
+            "glossy cabinet",
+            "gray cabinet",
+            "glass cabinet",
+            "white cabinet",
+            "golden cabinet",
+            "wooden chair"
+        ]
+    },
+    {
+        "image_caption": "drinking horse",
+        "init_img": "drinking_horse.jpeg",
+        "target_prompts": [
+            "cartoonish unicorn",
+            "brown unicorn",
+            "neon unicorn",
+            "ceramic unicorn",
+            "white unicorn",
+            "brown cow",
+            "fluffy cow",
+            "patterned cow",
+            "glass cow",
+            "cartoonish cow",
+            "neon moose",
+            "ceramic moose",
+            "metallic moose",
+            "golden moose",
+            "wooden moose"
+         
+        ]
+    },
+    {
+        "image_caption": "horse",
+        "init_img": "horse.png",
+        "target_prompts": [
+            "ceramic unicorn",
+            "golden unicorn",
+            "metallic unicorn",
+            "patterned unicorn",
+            "retro unicorn",
+            "glass cow",
+            "white cow",
+            "gray cow",
+            "vintage cow",
+            "metallic moose",
+            "gray moose",
+            "matte moose",
+            "patterned moose",
+            "wooden moose"
+        ]
+    },
+    {
+        "image_caption": "red car",
+        "init_img": "red_car.jpeg",
+        "target_prompts": [
+            "fluffy jeep",
+            "glass jeep",
+            "silver jeep",
+            "white jeep",
+            "ceramic motorcycle",
+            "blue motorcycle",
+            "neon motorcycle",
+            "silver motorcycle",
+            "glass motorcycle",
+            "cream van",
+            "vintage van",
+            "patterned van",
+            "cartoonish van"
+        ]
+    },
+    {
+        "image_caption": "stones",
+        "init_img": "stones.jpg",
+        "target_prompts": [
+            "glossy wedding cake",
+            "ceramic wedding cake",
+            "silver wedding cake",
+            "retro wedding cake",
+            "metallic wedding cake",
+            "matte bottle",
+            "white bottle",
+            "golden bottle",
+            "red bottle",
+            "glass bottle",
+            "silver candle",
+            "brown candle",
+            "cream candle",
+            "cartoonish candle",
+            "golden candle"
+        ]
+    },
+    {
+        "image_caption": "teddy bear",
+        "init_img": "teddy_bear.jpeg",
+        "target_prompts": [
+            "white puppy",
+            "patterned puppy",
+            "cartoonish puppy",
+            "metallic puppy",
+            "wooden puppy",
+            "silver kitten",
+            "fluffy kitten",
+            "retro kitten",
+            "glass kitten",
+            "neon kitten",
+            "blue hamster",
+            "red hamster",
+            "neon hamster",
+            "glass hamster",
+            "matte hamster"    
+        ]
+    },
+    {
+        "image_caption": "tennis ball",
+        "init_img": "tennis_ball.jpeg",
+        "target_prompts": [
+            "metallic orb",
+            "red orb",
+            "wooden orb",
+            "cream orb",
+            "ceramic orb",
+            "glass orb",
+            "glossy apple",
+            "brown apple",
+            "fluffy apple",
+            "blue apple",
+            "glass apple",
+            "retro pumpkin",
+            "brown pumpkin",
+            "red pumpkin",
+            "metallic pumpkin"
+        ]
+    },
+    {
+        "image_caption": "vase",
+        "init_img": "vase.jpeg",
+        "target_prompts": [
+            "wooden cup",
+            "retro cup",
+            "cartoonish cup",
+            "gray cup",
+            "blue cup",
+            "silver teapot",
+            "glossy teapot",
+            "brown teapot",
+            "neon teapot",
+            "vintage teapot",
+            "retro bottle",
+            "blue bottle",
+            "cartoonish bottle",
+            "metallic bottle"
+            
+        ]
+    },
+    {
+        "image_caption": "zebra",
+        "init_img": "zebra.jpeg",
+        "target_prompts": [
+            "matte horse",
+            "blue horse",
+            "red horse",
+            "glossy horse",
+            "metallic horse",
+            "cream horse",
+            "wooden cow",
+            "ceramic cow",
+            "white cow",
+            "golden cow",
+            "vintage unicorn",
+            "white unicorn",
+            "matte unicorn"
+        
+            
+        ]
+    }
+]
